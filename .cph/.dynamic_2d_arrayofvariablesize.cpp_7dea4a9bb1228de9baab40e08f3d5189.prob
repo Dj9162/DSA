@@ -1,0 +1,1 @@
+{"name":"Local: dynamic_2d_arrayofvariablesize","url":"e:\\C-C++ programmes\\dynamic_2d_arrayofvariablesize.cpp","tests":[{"id":1624197878814,"input":"2 2\n3 1 5 4\n5 1 2 8 9 3\n0 1\n1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C-C++ programmes\\dynamic_2d_arrayofvariablesize.cpp","group":"local","local":true}

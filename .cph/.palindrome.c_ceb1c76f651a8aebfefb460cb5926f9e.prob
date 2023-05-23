@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"e:\\c programmes\\palindrome.c","tests":[{"id":1616642518561,"input":"6\nnitin","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c programmes\\palindrome.c","group":"local","local":true}

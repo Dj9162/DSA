@@ -1,0 +1,11 @@
+Enter M:
+
+Enter string: 
+
+1: Not Possible
+2: Not Possible
+3: Not Possible
+4: Not Possible
+5: Not Possible
+
+Number of ways in which mixing Èû results in

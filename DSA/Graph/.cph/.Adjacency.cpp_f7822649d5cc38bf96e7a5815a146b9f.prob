@@ -1,0 +1,1 @@
+{"name":"Local: Adjacency","url":"e:\\C-C++ programmes\\DSA\\Graph\\Adjacency.cpp","tests":[{"id":1634529119039,"input":"5 6\n1 3\n1 4\n3 5\n2 4\n4 5\n5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C-C++ programmes\\DSA\\Graph\\Adjacency.cpp","group":"local","local":true}

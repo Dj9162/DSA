@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622468032 source:e:\c programmes\code block\fallingmatrix\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<cstdlib>
+	<ctime>
+	<chrono>
+

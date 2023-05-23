@@ -1,0 +1,1 @@
+{"name":"Local: longestspanwithamesum","url":"e:\\c programmes\\longestspanwithamesum.cpp","tests":[{"id":1616917733079,"input":"7\n0 1 0 1 1 1 1\n1 1 1 1 1 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c programmes\\longestspanwithamesum.cpp","group":"local","local":true}

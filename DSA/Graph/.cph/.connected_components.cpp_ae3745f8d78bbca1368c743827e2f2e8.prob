@@ -1,0 +1,1 @@
+{"name":"Local: connected_components","url":"e:\\C-C++ programmes\\DSA\\Graph\\connected_components.cpp","tests":[{"id":1629008727488,"input":"6 4\n1 2\n2 3\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C-C++ programmes\\DSA\\Graph\\connected_components.cpp","group":"local","local":true}

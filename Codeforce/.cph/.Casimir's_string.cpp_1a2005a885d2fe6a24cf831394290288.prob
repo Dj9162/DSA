@@ -1,0 +1,1 @@
+{"name":"Local: Casimir's_string","url":"e:\\C-C++ programmes\\Codeforce\\Casimir's_string.cpp","tests":[{"id":1632913887371,"input":"6\nABACAB\nABBA\nAC\nABC\nCABCBB\nBCBCBCBCBCBCBCBC","output":"NO\nYES\nNO\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C-C++ programmes\\Codeforce\\Casimir's_string.cpp","group":"local","local":true}

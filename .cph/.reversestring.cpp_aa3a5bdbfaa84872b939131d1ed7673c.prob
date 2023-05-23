@@ -1,0 +1,1 @@
+{"name":"Local: reversestring","url":"e:\\c programmes\\reversestring.cpp","tests":[{"id":1623390494150,"input":"Hello I am Dhanraj Kumar","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c programmes\\reversestring.cpp","group":"local","local":true}

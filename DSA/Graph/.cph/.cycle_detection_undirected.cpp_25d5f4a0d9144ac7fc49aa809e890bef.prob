@@ -1,0 +1,1 @@
+{"name":"Local: cycle_detection_undirected","url":"e:\\C-C++ programmes\\DSA\\Graph\\cycle_detection_undirected.cpp","tests":[{"id":1628922324226,"input":"9 8\n1 2\n2 5\n5 7\n3 4\n4 6\n6 8\n8 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C-C++ programmes\\DSA\\Graph\\cycle_detection_undirected.cpp","group":"local","local":true}
